@@ -1,5 +1,5 @@
 ==================
-2D Shmup Prototype
+2D Shmup Prototype !
 ==================
 
 This is a basic prototype for a 2D shmup idea I had one day.
